@@ -1,16 +1,42 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Changing the title",
-    "section": "",
-    "text": "About this site.\nAdding the title to this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Project",
+    "title": "Microscopy Core Resources",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My Project</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  My Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>My Project</span>"
+    ]
+  },
+  {
+    "objectID": "instruments.html",
+    "href": "instruments.html",
+    "title": "3  My Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>My Project</span>"
+    ]
+  },
+  {
+    "objectID": "image-analysis.html",
+    "href": "image-analysis.html",
+    "title": "4  My Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>My Project</span>"
+    ]
   }
 ]

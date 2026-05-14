@@ -1,23 +1,24 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
-  title: Image Analysis code shared through the CoRE
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      
+book:
+
+  title: "Microscopy Core Resources"
+  author: "ISMMS Microscopy Core"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - instruments.qmd
+    - image-analysis.qmd
 
 format:
   html:
     theme:
       - cosmo
       - brand
-    css: styles.css
     toc: true
+    Number-sections: true
 
 
 
