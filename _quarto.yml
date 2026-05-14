@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: “Image Analysis through the Core"
+  title: Image Analysis code shared through the CoRE
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      
 
 format:
   html:
